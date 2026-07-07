@@ -37,7 +37,7 @@ Only after these packets are exchanged can application data be transmitted.
 ---
 </> Markdown
 ## TCP Three-Way Handshake 
-![TCP Handshake](tcp-handshake.png)
+![TCP Handshake](images/tcp-handshake.png)
 ---
 ## Cybersecurity Perspective
 
